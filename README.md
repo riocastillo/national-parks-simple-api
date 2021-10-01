@@ -1,4 +1,4 @@
-<img src = "parks.gif" width= 98%>
+<img src = "park.gif" width= 98%>
 
 ## Goal
 Enable a user to enter any name of a U.S. National Park and get the entrance fee cost and the directions.
